@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ArafatFarooquii
-- 👀 I’m interested in AI ...
+- 👀 I’m interested in AI and ML ...
 - 🌱 I’m currently learning python,java and c
-- 📫 How to reach me at arafatfarooqui9@gmail.com
+- 📫Reach me at arafatfarooqui9@gmail.com
 
 <!---
 ArafatFarooquii/ArafatFarooquii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
